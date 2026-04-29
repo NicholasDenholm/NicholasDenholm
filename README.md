@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+page!!!)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm xxx</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxx" /> </p>
 
