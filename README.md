@@ -111,5 +111,5 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS-7.20%25-purple)
 ![C](https://img.shields.io/badge/C-3.58%25-lightgrey)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasDenholm&show_icons=true&locale=en" alt="xxx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasDenholm&show_icons=false&locale=en" alt="xxx" /></p>
 
