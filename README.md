@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxx&show_icons=true&locale=en&layout=compact" alt="xxx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicholasDenholm&show_icons=true&locale=en&layout=compact" alt="xxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxx&show_icons=true&locale=en" alt="xxx" /></p>
 
