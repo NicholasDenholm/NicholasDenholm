@@ -119,9 +119,10 @@ Here are some ideas to get you started:
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicholasDenholm&show_icons=true&locale=en&layout=compact" alt="xxx" /></p>-->
 
-### Language Breakdown
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=%E2%96%88%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%88%E2%96%80%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%80%E2%96%88+%E2%96%91%E2%96%88%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%88)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/Python-45.02%25-blue)(https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=python&sort=)
+### Language Breakdown
+<!--![Python](https://img.shields.io/badge/Python-45.02%25-blue)(https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=python&sort=)-->
 
 <a href="https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=python&sort=" target="_blank">
   <img src="https://img.shields.io/badge/Python-45.02%25-blue" />
