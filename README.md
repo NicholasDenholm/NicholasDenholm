@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 ### Language Breakdown
 
-![Python](https://img.shields.io/badge/Python-45.02%25-blue)
+![Python](https://img.shields.io/badge/Python-45.02%25-blue)(https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=python&sort=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-27.05%25-yellow)
 ![C++](https://img.shields.io/badge/C++-14.25%25-orange)
 ![CSS](https://img.shields.io/badge/CSS-7.20%25-purple)
