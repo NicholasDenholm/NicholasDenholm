@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--<h3 align="left">Languages and Tools:</h3>-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%96%88%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%88%E2%96%80%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%80%E2%96%88+%E2%96%91%E2%96%88%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%88)](https://git.io/typing-svg)
 
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+#### Web Stack
 <!-- Web Stack / Tools -->
 <p align="left">
   <a href="https://www.w3.org/html/">
@@ -72,22 +74,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<!--Others-->
-<p align="left">
-  <a href="https://www.docker.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
-  </a>
-</p>
-
+#### Machine Learning
 <!-- AI / Data -->
 <p align="left">
   <a href="https://opencv.org/">
@@ -109,6 +96,26 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
   </a>
 </p>
+
+#### Others
+<!--Others-->
+<p align="left">
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  </a>
+  <!-->
+  <a href="https://www.sqlite.org/">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
+  </a>
+  -->
+</p>
+
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicholasDenholm&show_icons=true&locale=en&layout=compact" alt="xxx" /></p>-->
 
