@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=&sort=" target="_blank">
-  <img src="https://img.shields.io/badge/Shell-27.05%25-pink" />
+  <img src="https://img.shields.io/badge/Others-pink" />
 </a>
 
 <!--![C++](https://img.shields.io/badge/C++-14.25%25-orange)-->
