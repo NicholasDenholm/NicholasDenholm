@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>-->
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%E2%96%88%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%88%E2%96%80%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%80%E2%96%88+%E2%96%91%E2%96%88%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%88)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=%E2%96%88%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%88%E2%96%80%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%80%E2%96%88%E2%96%80%E2%96%88+%E2%96%91%E2%96%88%E2%96%80%E2%96%88%E2%96%91%E2%96%88%E2%96%80%E2%96%80%E2%96%91%E2%96%80%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%88)](https://git.io/typing-svg)
 
 #### Programming Languages
 <!-- Programming Languages -->
