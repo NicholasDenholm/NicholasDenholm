@@ -118,13 +118,18 @@ Here are some ideas to get you started:
 
 
 
-![C++](https://img.shields.io/badge/C++-14.25%25-orange)
+<!--![C++](https://img.shields.io/badge/C++-14.25%25-orange)-->
 
 
-![CSS](https://img.shields.io/badge/CSS-7.20%25-purple)
+<!--![CSS](https://img.shields.io/badge/CSS-7.20%25-purple)-->
 
 
-![C](https://img.shields.io/badge/C-3.58%25-lightgrey)
+<!--![C](https://img.shields.io/badge/C-3.58%25-lightgrey)-->
+<a href="https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=C&sort=" target="_blank">
+  <img src="https://img.shields.io/badge/C-3.58%25-lightgrey" />
+</a>
+
+
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholasDenholm&show_icons=false&locale=en" alt="xxx" /></p>-->
 
