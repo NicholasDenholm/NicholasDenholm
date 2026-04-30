@@ -116,7 +116,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-27.05%25-yellow" />
 </a>
 
+<!--![C](https://img.shields.io/badge/C-3.58%25-lightgrey)-->
+<a href="https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=C&sort=" target="_blank">
+  <img src="https://img.shields.io/badge/C-3.58%25-lightgrey" />
+</a>
 
+
+<a href="https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=&sort=" target="_blank">
+  <img src="https://img.shields.io/badge/Shell-27.05%25-pink" />
+</a>
 
 <!--![C++](https://img.shields.io/badge/C++-14.25%25-orange)-->
 
@@ -124,10 +132,7 @@ Here are some ideas to get you started:
 <!--![CSS](https://img.shields.io/badge/CSS-7.20%25-purple)-->
 
 
-<!--![C](https://img.shields.io/badge/C-3.58%25-lightgrey)-->
-<a href="https://github.com/NicholasDenholm?tab=repositories&q=&type=&language=C&sort=" target="_blank">
-  <img src="https://img.shields.io/badge/C-3.58%25-lightgrey" />
-</a>
+
 
 
 
