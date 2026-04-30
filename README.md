@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!!!
 
 <!--
 **NicholasDenholm/NicholasDenholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+page!!!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm xxx</h1>
-<p align="left"> <img alt="xxx" /> </p>
+<h1 align="center">Hi, I'm Nicholas Denholm</h1>
 
+<!--
+<p align="left"> <img alt="xxx" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+-->
 
 <!--<h3 align="left">Languages and Tools:</h3>-->
 <!--
