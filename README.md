@@ -28,17 +28,20 @@ Here are some ideas to get you started:
 
 <!-- Programming Languages -->
 <p align="left">
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  </a>
-  <a href="https://www.java.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  </a>
   <a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  </a>
+  <a href="https://www.postgresql.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  </a>
+  <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
   </a>
 </p>
 
@@ -53,15 +56,21 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   </a>
+  <!--
   <a href="https://flask.palletsprojects.com/">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>
   </a>
+  -->
   <a href="https://jekyllrb.com/">
     <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40"/>
   </a>
   <a href="https://www.selenium.dev">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40"/>
   </a>
+</p>
+
+<!--Others-->
+<p align="left">
   <a href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   </a>
@@ -70,9 +79,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   </a>
   <a href="https://www.sqlite.org/">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
