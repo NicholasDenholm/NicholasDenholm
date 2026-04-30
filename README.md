@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicholasDenholm&show_icons=true&locale=en&layout=compact" alt="xxx" /></p>-->
 
-### 🧠 Language Breakdown
+### Language Breakdown
 
 ![Python](https://img.shields.io/badge/Python-45.02%25-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-27.05%25-yellow)
